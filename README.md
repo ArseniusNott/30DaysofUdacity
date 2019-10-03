@@ -1,3 +1,13 @@
+Day 3:
+----------
+Milestones:
+1. Finished the whole first lesson: Introduction to Deep Learning.
+2. I reviewed Jupyter Notebook and read the amazing and inspiring article about LIGO's journey in proving Einstein's theory a century ago - link [here](https://www.ligo.caltech.edu/news/ligo20160211). It is really incredible how open source Jupyter notebook that I used on several courseworks is also the tool that US research agencies used to communicate a massive feat. 
+3. Went through the Matrix Math and Numpy Refresher. I received multiple lessons like that before. But Udacity's way of telling a story in an engaging and visual way helped me solidify the concept of matrix factorization even better. Loving every part of it.
+
+&#35;30DaysofUdacity
+
+
 Day 2:
 ----------
 Milestones:
