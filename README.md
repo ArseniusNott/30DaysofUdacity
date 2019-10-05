@@ -1,3 +1,21 @@
+Day 5:
+----------
+Milestones:
+1. I am halfway into finishing implementing gradient descent from scratch. I failed to finish it this time but I will surely finish them tomorrow.
+2. I have been brushing up my skills in multivariable calculus and been watching several KhanAcademy videos in the process.
+
+&#35;30DaysofUdacity
+
+
+Day 4:
+----------
+Milestones:
+1. Finished 67% of the Neural Network lesson. Most of the content that I had gone through were from the Intro to Deep Learning with PyTorch but I reviewed them anyway. It is really interesting how neural networks can be effectively learned through engaging visuals. I am loving it so far.
+2. I had started learning how to implement gradient descent using NumPy and will finish the module tomorrow.
+
+&#35;30DaysofUdacity
+
+
 Day 3:
 ----------
 Milestones:
