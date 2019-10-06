@@ -1,3 +1,13 @@
+Day 6:
+----------
+Milestones:
+1. Finally, I finished the Implementing Gradient Descent lesson. It is so much fun. This really reinforces the value of theoretical/mathematical intuition as before utilizing much more complicated deep learning methods. I probably need to review this again.
+2. Watched Andrej Karpathy's [lecture](https://www.youtube.com/watch?v=59Hbtz7XgjM) about the importance of building the intuition behind backpropagation and gradient descent. 
+3. Gone through the first project implementation (Predicting Bike-Sharing Patterns). Unfortunately, my validation error is 0.64. I probably need to review my implementation before submitting it. This is a challenging yet rewarding project at the same time.  
+
+&#35;30DaysofUdacity
+
+
 Day 5:
 ----------
 Milestones:
