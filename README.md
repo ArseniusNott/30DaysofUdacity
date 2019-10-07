@@ -1,3 +1,13 @@
+Day 7:
+----------
+This is my first week in the nanodegree and it has been a rewarding experience by far.
+Milestones:
+1. Finished, submitted and passed the first project Predicting Bike-Sharing Data. I got a training loss of 0.071 and validation of 0.155. I am now awaiting for code review.
+![Day 7](./images/day_07.JPG)
+2. Watched the history of AI and Deep Learning visual podcast by Frank Chen where he explained how AI visions became fruitful on the present years from the summer of 1952, to AI winters, to breakthroughs in deep learning to the advances in Machine Learning products that we enjoy right now. I am glad that I watched this video. It feels like I am heading into the right direction of investing my time and efforts to learn this domain to produce systems enhanced with AI components. 
+
+
+
 Day 6:
 ----------
 Milestones:
