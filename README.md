@@ -1,3 +1,13 @@
+Day 8:
+----------
+Milestones:
+1. Finished Project 1 of the Sentiment Analysis lesson. It really is challenging when you are not looking at an already-made solution.
+2. Learned that Counter package let's you count words easily and efficiently using few lines of code. I learned how to use Counter().update(), deviating from Trask's solution a little bit. I observed that it becomes tricky when you repeatedly update the Counter object since the update method does not exactly replace the previous value of each item in the dictionary, they are being augmented by the new values computed. But update method is proven useful for me in this case. 
+3. I also refreshed my memory a little bit about dictionary comprehensions and map function. It really is become useful to make Trask's already few lines of code fewer. 
+
+&#35;30DaysofUdacity
+
+
 Day 7:
 ----------
 This is my first week in the nanodegree and it has been a rewarding experience by far.
