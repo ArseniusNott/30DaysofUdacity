@@ -1,3 +1,13 @@
+Day 9:
+----------
+Milestones:
+1. Finished mini projects 2 and 3 of the sentiment analysis lesson. They are a bit tricky especially that I used comprehensions most of the time but it is a good practice for more comprehensions to come.
+
+It has been two days since I started the sentiment analysis module and I appreciate the progression of forming an efficient solution to a particular problem. I am a bit slow but #30DaysofUdacity keeps motivating me. I hope you guys too.
+
+&#35;30DaysofUdacity
+
+
 Day 8:
 ----------
 Milestones:
