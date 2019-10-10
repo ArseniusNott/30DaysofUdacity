@@ -1,10 +1,12 @@
 Day 10:
 ----------
-Milestones:
-Finished Mini Projects 4, 5,and 6 of the Sentiment Analysis lesson.
+Milestones: 
 
-Realizations:
-The lessons from the neural network stresses the importance of understanding gradient descent and backpropagation in its fundamentality. This lesson takes a notch to make me appreciate this truth even more. By creating a deep learning solution that is so verbose, you can observe patterns to convergence and speed and rectify them immediately with basic yet powerful tool - numpy. Although this touches the very basic neural network with easily computed gradients and errors, that is not the ultimate goal. The goal of this quest is to appreciate formulating solutions from the problems encountered from initial results and build up from them, appreciating the art of problem solving in deep learning.
+Finished Mini Projects 4, 5, and 6 of the Sentiment Analysis lesson.
+
+Realizations: 
+
+The lessons from the neural network stress the importance of understanding gradient descent and backpropagation in its fundamentality. Even Andrej Karpathy believes that is true. This lesson takes a notch to make me appreciate this truth even more. By creating a deep learning solution that is so verbose, you can observe patterns to convergence and speed and rectify them immediately with basic yet powerful tool - numpy. Although this touches the very basic neural network with easily computed gradients and errors, that is not the ultimate goal of this lesson. Its goal is to appreciate formulating solutions from the problems encountered from the results of initial attempts and build up from them, which I believe is the art of problem-solving in deep learning.
 
 &#35;30DaysofUdacity
 
