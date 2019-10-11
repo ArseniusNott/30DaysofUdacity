@@ -3,7 +3,10 @@ Day 11:
 Milestones:
 
 1. Reviewed sentiment analysis lesson to reinforce the concepts of optimization and efficiency in training by dissecting the train and run functions. I probably need another day to finish reviewing the lesson. 
-2. 
+2. This is slightly related to deep learning that I needed sharing. I watched the [Full Frontal Rewind: The Best of Big Tech At Its Worst | Full Frontal on TBS](https://www.youtube.com/watch?v=C8AxAvh3-ck) with Samantha Bee. Bee jokingly featured deepfakes and facebook privacy fiascos since its inception and it made me realize the vast responsibility of AI enthusiasts and practitioners to prevent malicious use of AI and protect people's privacy. There is more to it so I would like you to check it out.
+
+&#35;30DaysofUdacity
+
 
 Day 10:
 ----------
