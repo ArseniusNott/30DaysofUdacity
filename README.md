@@ -1,3 +1,10 @@
+Day 11:
+----------
+Milestones:
+
+1. Reviewed sentiment analysis lesson to reinforce the concepts of optimization and efficiency in training by dissecting the train and run functions. I probably need another day to finish reviewing the lesson. 
+2. 
+
 Day 10:
 ----------
 Milestones: 

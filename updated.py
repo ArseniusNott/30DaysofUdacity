@@ -107,8 +107,20 @@ class SentimentNetwork:
         #       where "output" is the original output from the sigmoid fucntion 
         return output * (1 - output)
 
+    def review_with_words_indexed(self, review):
+        training_review = []
+        for word in review.split(" "):
+            if word in self.review_vocab:
+                training_review.append(self.word2index[word])
+        return training_review
+
     def train(self, training_reviews_raw, training_labels):
-        
+        self.training_reviews = []
+        for review in training_reviews_raw:
+            review_indexed = review_with_words_indexed(review)
+            self.training_reviews.append(review_indexed)
+
+
         # make sure out we have a matching number of reviews and labels
         assert(len(training_reviews_raw) == len(training_labels))
         
@@ -133,9 +145,15 @@ class SentimentNetwork:
             # 
             #       Do not use an activation function for the hidden layer,
             #       but use the sigmoid activation function for the output layer.
-            self.update_input_layer(review)
-            layer_1 = np.dot(self.layer_0, self.weights_0_1)
-            layer_2 = self.sigmoid(np.dot(layer_1, self.weights_1_2))
+            
+            # self.update_input_layer(review)
+            # layer_1 = np.dot(self.layer_0, self.weights_0_1)
+
+            for index in review:
+                print(index)
+                self.layer_1 += self.weights_0_1[index]
+
+            layer_2 = self.sigmoid(np.dot(self.layer_1, self.weights_1_2))
             
             # TODO: Implement the back propagation pass here. 
             #       That means calculate the error for the forward pass's prediction
@@ -154,8 +172,11 @@ class SentimentNetwork:
             
             # update the weights
             self.weights_1_2 -= np.dot(layer_1.T, layer_2_delta) * self.learning_rate
-            self.weights_0_1 -= np.dot(self.layer_0.T, layer_1_delta) * self.learning_rate
+            # self.weights_0_1 -= np.dot(self.layer_0.T, layer_1_delta) * self.learning_rate
             
+            for index in review:
+                self.weights_0_1[index] -= layer_1_delta[0] * self.learning_rate
+
             # TODO: Keep track of correct predictions. To determine if the prediction was
             #       correct, check that the absolute value of the output error 
             #       is less than 0.5. If so, add one to the correct_so_far count.
@@ -219,13 +240,16 @@ class SentimentNetwork:
         #             to lower case prior to using it.
         
         # input layer
-        self.update_input_layer(review.lower())
+        # self.update_input_layer(review.lower())
         
         # hidden layer
-        layer_1 = np.dot(self.layer_0, self.weights_0_1)
-        
+        # layer_1 = np.dot(self.layer_0, self.weights_0_1)
+        review_indexed = review_with_words_indexed(review)
+        for index in review_indexed:
+            self.layer_1 += self.weights_0_1[index]
+            
         # output layer
-        layer_2 = self.sigmoid(np.dot(layer_1, self.weights_1_2))
+        layer_2 = self.sigmoid(np.dot(self.layer_1, self.weights_1_2))
         
         # TODO: The output layer should now contain a prediction. 
         #       Return `POSITIVE` for predictions greater-than-or-equal-to `0.5`, 
