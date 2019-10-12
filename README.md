@@ -1,3 +1,12 @@
+Day 12:
+----------
+Milestone:
+
+Finished reviewing the sentiment analysis lesson and gearing up towards convolutional neural networks since I already finished the Deep Learning with PyTorch lesson. 
+
+&#35;30DaysofUdacity
+
+
 Day 11:
 ----------
 Milestones:
