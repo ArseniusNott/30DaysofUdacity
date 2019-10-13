@@ -1,3 +1,12 @@
+Day 13:
+----------
+Milestone:
+
+Reviewed the Convolutional Neural Networks lesson. I had taken this lesson from Intro to Deep Learning with PyTorch free course but it is really nice to revisit the lesson again.
+
+&#35;30DaysofUdacity
+
+
 Day 12:
 ----------
 Milestone:
