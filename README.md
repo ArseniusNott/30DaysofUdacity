@@ -1,3 +1,14 @@
+Day 14:
+----------
+Milestones:
+1. Read Capsule Networks from Cezanne Camacho's [blog post](https://cezannec.github.io/Capsule_Networks/). In a nutshell, capsule networks are another configurations of CNNs to detect hierarchically-related features as well as preserve properties/features related to these hierarchies such as width, orientation, color, etc.
+2. Perused Andrej Karpathy's explanation of [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/#conv) specifically on how we can estimate parameters given the input, channels, expected number of kernels, stride and padding as well as the effect of pooling layers. This is a long read that I probably need to re-read this. 
+
+I am currently implementing the CIFAR image classification exercise as added module of the CNN lesson and I am now in specifying model parameters. Will continue this tomorrow.
+
+&#35;30DaysofUdacity
+
+
 Day 13:
 ----------
 Milestone:
