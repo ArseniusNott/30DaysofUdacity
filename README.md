@@ -1,3 +1,16 @@
+Day 15:
+----------
+Milestones:
+1. Finished my own implementation of the CIFAR-10 classification exercise with 67 percent accuracy. Not 71 percent as Cezanne got but the task really reinforced my knowledge of this topic. 
+2. I recently got accepted in the AWS Educate application. It was approved only minutes after I signed up. I am pretty excited to run my models on provisioned and dedicated servers soon.
+
+![Day 15](./images/day_15.JPG)
+
+3. Started transfer learning lesson.
+
+&#35;30DaysofUdacity
+
+
 Day 14:
 ----------
 Milestones:
