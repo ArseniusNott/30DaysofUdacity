@@ -1,3 +1,12 @@
+Day 16:
+----------
+1. Finished Lesson 3: Transfer Learning.
+2. Explored and implemented the transfer learning exercise. I got 79 percent accuracy, slightly better than Cezanne's solution due to the increase in the number of epochs (5 instead of 2) in this case. CPU instance take a lot to train even with freezed weights, 15 minutes to a little over 2 minutes difference from CPU to GPU respectively.
+3. Started the Weight Initialization lesson. 
+
+&#35;30DaysofUdacity
+
+
 Day 15:
 ----------
 Milestones:
