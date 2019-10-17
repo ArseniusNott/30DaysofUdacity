@@ -1,3 +1,11 @@
+Day 17:
+----------
+1. Finished Lesson 4: Weight Initialization. I answered the reflection part poorly (sorry :D) but I learned that backpropagation does not deal with consistency but rather deals on how it rectifies the network (i.e. weights) from randomness of initial weights.
+2. Started autoencoders lesson. As of this writing, I am implementing the first notebook exercise. I hope that I could finish the whole lesson tomorrow.
+
+&#35;30DaysofUdacity
+
+
 Day 16:
 ----------
 1. Finished Lesson 3: Transfer Learning.
