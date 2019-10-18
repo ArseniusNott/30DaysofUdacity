@@ -4,7 +4,7 @@ Milestones:
 1. Successfully implemented the first notebook exercise for the Autoencoders lesson and got a pretty good performance. I constructed a model of three 6 layers for both encoder and decoder. It is a pretty slow training (took me around 25 minutes) but got a relatively good training loss (0.15 compare to Cezanne's 0.24). It was a fun exercise and as of this writing, I am continuing the lesson. Looking forward to Autoencoders with CNNs and how it performs compare to MLP.
 2. Yesterday, me and my colleagues attended the AWS online event entitled Modern Application Development. This topic really resonates with our department's goals since we are used to monolithic development. Business these days are migrating to microservice framework right now especially in enterprice systems with varying compute requirements. Orchestrating each of the services in the microservice framework is a challenge but AWS's FaaS, SaaS and IaaS offerings really decouples these considerations from actual development. I am excited to migrate our projects to the aforesaid framework very soon. 
 
-![Day 18](day_18.JPG)
+![Day 18](./images/day_18.JPG)
 
 &#35;30DaysofUdacity
 
