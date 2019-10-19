@@ -1,3 +1,14 @@
+Day 19:
+----------
+Milestones:
+1. Finished the whole Autoencoders lesson including all of the remaining notebook exercises. I naively forgot to implement migrating models and data to cuda for training. I spent around 30 minutes per epoch in convolutional autoencoder that I stopped the training and figured out what caused the problem. Spent few hours with GPU mode enabled to tweak the solution leveraging cuda. Nevertheless, that is a problem worth having. It really reinforced my understanding of GPU training with PyTorch.
+2. Finished the theory part of the Style Transfer lesson. As of this writing, I am implementing solutions to exercises while reading the originating paper for solution. 
+
+I am really excited to jumpstart my second project. 
+
+&#35;30DaysofUdacity
+
+
 Day 18:
 ----------
 Milestones:
