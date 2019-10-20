@@ -1,3 +1,12 @@
+Day 20:
+----------
+Milestones:
+1. Finished the notebook for style transfer. 
+2. Finished the first two exercises of the Dog Breed Classifier project which involves assessing the human face detector as well as implementing one without using opencv. I tried to use scikit-image package but it does not work on my machine as well as Udacity's workspace. Luckily, dlib, which is a package, originally written in C that contains machine learning algorithms including face detection. To make things even better, it surpasses opencv's face detection from a 17% error rate to just 8% (accounting for humans detected in dogs image so technically a false positive rate). It is also pretty consistent with its result so I am investigating now the images that are flagged humans and see if those images actually have humans in them. 
+
+&#35;30DaysofUdacity
+
+
 Day 19:
 ----------
 Milestones:
@@ -5,7 +14,6 @@ Milestones:
 2. Finished the theory part of the Style Transfer lesson. As of this writing, I am implementing solutions to exercises while reading the originating paper for solution. 
 
 I am really excited to jumpstart my second project. I am hoping that I could finish that early.
-
 
 &#35;30DaysofUdacity
 
