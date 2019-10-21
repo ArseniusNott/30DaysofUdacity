@@ -1,3 +1,14 @@
+Day 21:
+----------
+Milestones:
+1. Implemented the second optional exercise of the dog breed classifier project. I used ResNet50. It is not as straightforward like VGG19 (i.e. model returns constant output) but I fixed most of it by declaring model evaluation mode before the feed forward process. Resnet50 got 100% accuracy for both cases compare to VGG19 which missed one image from the human files.
+2. Finally, I finished creating CNN model from scratch and initially train it. Got only 3% test accuracy since I ran the training for only 2 epochs. Will train it more tomorrow. 
+
+Hopefully, I could finish the whole project very soon. 
+
+&#35;30DaysofUdacity
+
+
 Day 20:
 ----------
 Milestones:

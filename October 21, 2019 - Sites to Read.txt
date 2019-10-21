@@ -1,0 +1,13 @@
+https://classroom.udacity.com/nanodegrees/nd101/parts/2ea78ff8-befd-4046-b06e-5327871b0748
+https://hub.udacity.com/rooms/community:nd101:en-us-general/community:thread-10301781482-1761920?contextType=room
+https://pytorch.org/docs/stable/torchvision/models.html#classification
+https://pytorch.org/docs/stable/nn.html#torch.nn.Module.eval
+https://github.com/udacity/deep-learning-v2-pytorch/blob/master/transfer-learning/Transfer_Learning_Solution.ipynb
+https://hackernoon.com/binary-face-classifier-using-pytorch-2d835ccb7816
+https://discuss.pytorch.org/t/pytorch-pil-to-tensor-and-vice-versa/6312
+https://forums.fast.ai/t/image-normalization-in-pytorch/7534
+https://pytorch.org/docs/stable/torchvision/transforms.html
+https://stackoverflow.com/questions/53623472/how-do-i-display-a-single-image-in-pytorch
+https://gist.github.com/jkarimi91/d393688c4d4cdb9251e3f939f138876e
+https://discuss.pytorch.org/t/expected-stride-to-be-a-single-integer-value-or-a-list/17612/3
+https://stackoverflow.com/questions/6193498/pythonic-way-to-find-maximum-value-and-its-index-in-a-list
