@@ -1,3 +1,15 @@
+Day 22:
+----------
+Milestones:
+1. With only 20 epochs of training, I managed to improve my CNN model from 3% to 15%. Validation loss still decreases significantly so I probably would train it more tommorrow.
+2. Finished the transfer learning part of the project to which I will also train tomorrow.
+3. Initially created the pipeline for the dog breed production algorithm. 
+
+I am really excited to see app results tomorrow. Hopefully everything goes well that I can submit it for review. 
+
+&#35;30DaysofUdacity
+
+
 Day 21:
 ----------
 Milestones:
