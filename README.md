@@ -1,3 +1,12 @@
+Day 23:
+----------
+Milestones:
+1. I finally finished training the whole project in the Udacity workspace. I had problems with their autosave feature (some of my edits are unsaved due to sync errors that I had to reload the page). I got 25% accuracy on my own CNN implementation and 64 percent on transfer learning with just 5 epoch. They are not high accuracies due to my decision of decreasing the number of epochs to speed up the training process while following the rubric/requirements.
+2. Started deep learning for cancer detection. It is interesting that transfer learning using pretrained model trained on non-medical dataset helped in detecting subtle nuances of benign and malignant skin cancer datasets. 
+
+&#35;30DaysofUdacity
+
+
 Day 22:
 ----------
 Milestones:
