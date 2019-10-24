@@ -1,3 +1,12 @@
+Day 24:
+----------
+Milestones:
+1. Yay! My 2nd project (Dog Breed Classifier) had been reviewed and it got satisfactory results.
+2. Continued with deep learning for cancer detection lesson. I am near into finishing the whole lesson. Hopefully I could finish the whole lesson tomorrow.
+
+&#35;30DaysofUdacity
+
+
 Day 23:
 ----------
 Milestones:
