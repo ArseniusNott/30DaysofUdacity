@@ -1,3 +1,14 @@
+Day 25:
+----------
+Milestones:
+1. Finished the lesson Deep Learning for Cancer Detection. This mini course is amazing. I love how data analysis, effective visualization and deep learning help solve one of the most critical task in dermatology which is diagnosing patients. 
+2. Started on improving my GitHub profile. There are a significant amount of repositories that I forked out of interest. I am currently doing house cleaning. 
+
+I missed one day for the first time in 30 days. I watched a musical after work and it was an incredible experience. But I am back on track now. 
+
+&#35;30DaysofUdacity
+
+
 Day 24:
 ----------
 Milestones:
