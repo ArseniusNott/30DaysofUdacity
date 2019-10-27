@@ -1,3 +1,13 @@
+Day 26:
+----------
+Milestones:
+1. Improved my GitHub profile and created my page using GitHub pages.
+2. Started the RNN lesson. 
+
+&#35;30DaysofUdacity
+
+
+
 Day 25:
 ----------
 Milestones:
