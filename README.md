@@ -1,3 +1,14 @@
+Day 28:
+----------
+Milestones:
+1. Finished the whole lesson of Recurrent Neural Networks. As much as I would love to continue to the next lesson, I think I need to review the lesson once again tomorrow to reinforce all the basic concepts of RNN. 
+2. As part of my work, I learned about optimizing fragments in Android and implementing stack algorithm to simulate push, pop and back stack to fragment state managers without having to recreate the whole stack. It is a much more involved way of persistence especially when dealing with server updates but is important to be resolved nonetheless (definitely not deep learning related but is worth sharing).
+
+Keep rocking guys!
+
+&#35;30DaysofUdacity
+
+
 Day 27:
 ----------
 Milestones:
