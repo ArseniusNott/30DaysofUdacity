@@ -1,3 +1,12 @@
+Day 29:
+----------
+Milestones:
+1. Reviewed Lesson 1: Recurrent Neural Networks. 
+2. Read [Rules of calculus - multivariate](http://www.columbia.edu/itc/sipa/math/calc_rules_multivar.html) lesson from Columbia University. They put partial derivatives in an economic perspective. Nevertheless, it is still useful in terms of learning partial derivatives using the fundamental rules of univariate calculus. You should read them too.
+
+&#35;30DaysofUdacity
+
+
 Day 28:
 ----------
 Milestones:
