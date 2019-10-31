@@ -1,3 +1,12 @@
+Day 30:
+----------
+Well today marks the 30th day for my 30 days of Udacity. I finished reviewing the LSTM lesson which I previously perused from the Intro to Deep Learning with PyTorch course.
+
+Guys, our paper entitled CRADLE: Cross-Layer Design for Load-Aware Routing in IEEE 802.11-Based Wireless Mesh and Sensor Networks just got accepted after months of waiting. A very good way to culminate this 30 days challenge. I am really excited.
+
+&#35;30DaysofUdacity
+
+
 Day 29:
 ----------
 Milestones:
